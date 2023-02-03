@@ -1,0 +1,190 @@
+Card Number,Card Name,Type,Note 1,Note 2,Note 3,Number,Contraband,Requirement 1,Requirement 2,Requirement 3
+NUMBER,NULL,NULL,NULL,NULL,NULL,244,NULL,NULL,NULL,NULL
+1,Lunch Diggums,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,warrior,0
+2,Kira 'Four Eyes' Darris,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,warrior,0
+3,Cleopanie V.,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,warrior,0
+4,Telamaine Carpis,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,warrior,0
+5,Brie DeSunder,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,warrior,0
+6,Eziah Vorkas,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,bandit,0
+7,Aces Trixie,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,bandit,0
+8,Brigitte Bonebreaker,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,bandit,0
+9,Beliana Rose,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,priest,0
+10,St. Cristof of Krel,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,priest,0
+11,Trandor the Pure,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,priest,0
+12,Walter Wordsmith,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,troubadour,0
+13,Virtuoso Dann,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,troubadour,0
+14,Soph The Baladeer,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,troubadour,0
+15,Diane Carmont,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,mage,0
+16,Ignacius O'Hare,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,mage,0
+17,Damien Heartrender,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,champion,0
+18,Yarona Oathbreaker,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,champion,0
+19,Silvestre Darkwood,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,cultist,0
+20,Liara Blackheart,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Bar Fight: Select 1 other visitor to rage,1,0,human,cultist,0
+21,Kuzmaran Underfury,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,warrior,0
+22,Tugos Boomblade,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,warrior,0
+23,Burretha Minehelm,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,warrior,0
+24,Folgi Flaskbow,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,warrior,0
+25,Noznuk Nightstalker,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,bandit,0
+26,Vokogret Greygrip,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,bandit,0
+27,Shogar Lightsmith,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,priest,0
+28,Wugrit Wolfheart,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,priest,0
+29,Nudrina Alegrip,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,troubadour,0
+30,Avril Granitegut,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,troubadour,0
+31,Ymos Cloudcaller,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,mage,0
+32,Duunkora Greyrune,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,mage,0
+33,Rundath of the Red Keep,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,champion,0
+34,Yula Duskrock,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,champion,0
+35,Rama Shadowmantle,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,cultist,0
+36,Hazzhara Frostpeak,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Goddamn Elves: All elves rage,1,0,dwarf,cultist,0
+37,Vulosh Anklebiter,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,warrior,0
+38,Kowth the Raven,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,warrior,0
+39,Iglin Whitethaw,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,warrior,0
+40,Nengaz Deadeye,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,warrior,0
+41,Styxie Stickypalms,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,bandit,0
+42,Ryrmox,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,bandit,0
+43,Wex Knekwister,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,priest,0
+44,Zagu the Holy,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,priest,0
+45,Banjo Gibblets,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,troubadour,0
+46,Tenpenny Zog,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,troubadour,0
+47,Luxo Brighteye,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,mage,0
+48,Hex Wexler,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,mage,0
+49,Yelemina the Swift,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,champion,0
+50,Vrox the Fortunate,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,champion,0
+51,Tumu Serpentsworn,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,cultist,0
+52,Kruuz Tuum,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Minor Inconveniences: Discard an action card,1,0,goblin,cultist,0
+53,Orlan the Unbloodied,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,warrior,0
+54,Dol Gura Gura,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,warrior,0
+55,Juzhug of the Silver Sea,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,warrior,0
+56,Vorkhra Gnashblade,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,bandit,0
+57,Torvak the Hungry,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,bandit,0
+58,Hukh the Believer,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,priest,0
+59,Ashra the Born-Again,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,priest,0
+60,Zheza the Booming,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,troubadour,0
+61,Gorlash the Baritone,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,troubadour,0
+62,Dakzogh The Soul Harvester,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,mage,0
+63,Korg Crunchtime Kaza,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,champion,0
+64,Nuul the Wretched,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,Causing chaos: -1 New Action Cards at Dawn,1,0,orc,cultist,0
+65,Vadrienne the Astute,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,warrior,0
+66,Aela of the Golden Trail,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,warrior,0
+67,Perilax Longstrider,Hero,Bouncer: Kick patron out of tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,warrior,0
+68,Qirana The Calculating,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,bandit,0
+69,Sylyarus Autumnshadow,Hero,Sticky Fingers: Steal 2 drinks from rival tavern. Drinks are returned at dawn.,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,bandit,0
+70,Melaana Soothspeaker,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,priest,0
+71,Isha Aetherborn,Hero,Words of Comfort: Remove one rage token from tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,priest,0
+72,Aourus the Spark,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,troubadour,0
+73,Jii Foraa,Hero,An Alluring Invitation: Immediately bring a visitor to your tavern at cost of 1 drink,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,troubadour,0
+74,Ara of the Sacred Star,Hero,Transmographation...tion: Draw 3 new cards from the action deck.,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,mage,0
+75,Elnan The Forest Guardian,Hero,Hired Muscle: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,champion,0
+76,Timondel of the Eternal Night,Hero,Completely Normal Ceremony: Causes two tantrums in patron in rival tavern at cost of 1 local tantrum,Plus 1 Drink Req.,An Upturned Nose: -1 Rating,1,0,elf,cultist,0
+77,Cat Stuck In Tree,Quest,1,NULL,NULL,1,0,any,null,human
+78,Schoolyard Bully,Quest,1,NULL,NULL,1,0,warrior,null,dwarf
+79,Reclaim Ball in Neighbor's Yard,Quest,2,NULL,NULL,1,0,bandit,null,goblin
+80,Bless The Newborn,Quest,2,NULL,NULL,1,0,priest,null,elf
+81,Entertain a Bar Crowd,Quest,2,NULL,NULL,1,0,troubadour,null,orc
+82,Snazz Up Kid's Birthday Party,Quest,2,Action Draw +1,NULL,1,0,mage,null,human
+83,Arm-Wrestling Championship,Quest,2,Drink Cap +1,NULL,1,0,champion,null,dwarf
+84,Curse A Coworker,Quest,2,Action Cap +1,NULL,1,0,cultist,null,elf
+85,A Shopping Trip,Quest,1,NULL,NULL,1,0,any,null,dwarf
+86,Sparring Match,Quest,1,NULL,NULL,1,0,warrior,null,human
+87,Forge Some Papers,Quest,2,NULL,NULL,1,0,bandit,null,orc
+88,Accept a Thief's Confession,Quest,2,NULL,NULL,1,0,priest,null,goblin
+89,Coach Nerd on his Date,Quest,2,NULL,NULL,1,0,troubadour,null,elf
+90,Fetch the Artisan's Tools,Quest,2,NULL,NULL,1,0,any,any,elf
+91,Stake Out the Mysterious Encampment,Quest,2,NULL,NULL,1,0,any,any,goblin
+92,Escort A Merchant to Market,Quest,2,NULL,NULL,1,0,any,warrior,elf
+93,Steal some Tax Documents,Quest,2,Action Draw +1,NULL,1,0,any,bandit,orc
+94,Protect Church from Wolves (EVIL wolves),Quest,2,Drink Cap +1,NULL,1,0,any,priest,human
+95,Negotiate a Good Price on Jewels,Quest,2,Action Cap +1,NULL,1,0,any,troubadour,dwarf
+96,Gather Wyrd Root for the Ritual,Quest,3,Action Draw +1,NULL,1,0,any,mage,orc
+97,Test Prototype Magical Armor,Quest,3,Drink Cap +1,NULL,1,0,any,champion,goblin
+98,Destroy the Sacred Manuscript,Quest,3,Action Cap +1,NULL,1,0,any,cultist,goblin
+99,Bodyguard the Mayor,Quest,2,NULL,NULL,1,0,warrior,warrior,orc
+100,Pickpocket an Elven Artifact,Quest,2,Action Draw +1,NULL,1,0,warrior,bandit,elf
+101,Investigate Rumors of a Necromancer,Quest,2,Drink Cap +1,NULL,1,0,warrior,priest,goblin
+102,Investigate the Castle Ruins,Quest,2,Action Cap +1,NULL,1,0,warrior,troubadour,human
+103,Chart a Route through the Dark Wood,Quest,3,Action Draw +1,NULL,1,0,warrior,mage,goblin
+104,Activate the Blood Gate,Quest,3,Drink Cap +1,NULL,1,0,warrior,champion,orc
+105,Reclaim the Eye of Khuzzok,Quest,3,Action Cap +1,NULL,1,0,warrior,cultist,human
+106,Double-Cross the Mob Boss,Quest,3,Action Draw +1,NULL,1,0,bandit,bandit,goblin
+107,Investigate Corruption in the Governancy,Quest,3,Drink Cap +1,NULL,1,0,bandit,priest,dwarf
+108,Ensure the Mayor Takes the Bribe,Quest,3,Action Cap +1,NULL,1,0,bandit,troubadour,elf
+109,Break in to the RockVault,Quest,4,Action Draw +1,NULL,1,0,bandit,mage,dwarf
+110,Capture the Lurker in the Sewers,Quest,4,Drink Cap +1,NULL,1,0,bandit,champion,human
+111,Bamboozle the Town Watch,Quest,4,Action Cap +1,NULL,1,0,bandit,cultist,goblin
+112,Lay the Undead To Rest,Quest,3,Action Draw +1,NULL,1,0,priest,priest,elf
+113,Mediate the Peace Talks,Quest,3,Drink Cap +1,NULL,1,0,priest,troubadour,human
+114,Cure the Giga-Plague in Nearby City,Quest,4,Action Draw +1,NULL,1,0,priest,mage,orc
+115,Defeat the Demon Incursion,Quest,4,Drink Cap +1,NULL,1,0,priest,champion,dwarf
+116,Merge the Dark and the Light,Quest,4,Action Cap +1,NULL,1,0,priest,cultist,orc
+117,Calm the Mad King with Song,Quest,3,Action Cap +1,NULL,1,0,troubadour,troubadour,human
+118,Regrow the Magical Wood with Music,Quest,4,Drink Cap +1,NULL,1,0,troubadour,mage,elf
+119,Write a New Heroic Epic,Quest,4,Action Cap +1,NULL,1,0,troubadour,champion,orc
+120,Investigate the Mysterious Portal,Quest,4,Action Draw +1,NULL,1,0,troubadour,cultist,goblin
+121,Stabilise the Rift in Reality,Quest,4,Drink Cap +2,NULL,1,0,mage,mage,dwarf
+122,Calm the Monster-In-The-Lake,Quest,4,Action Cap +2,NULL,1,0,mage,champion,elf
+123,Kidnap the Corrupt Official,Quest,4,Action Draw +2,NULL,1,0,mage,cultist,human
+124,Return the Heir to the Orc Kingdoms,Quest,4,Action Cap +2,NULL,1,0,champion,champion,orc
+125,Find the Lost Dwarven Hoard,Quest,4,Drink Cap +2,NULL,1,0,champion,cultist,dwarf
+126,Ensnare the Red Dawn,Quest,4,Action Draw +2,NULL,1,0,cultist,cultist,dwarf
+127,Magnificent Statue,Expansion,Expansion,Adds 1 fame to tavern,,5,0,NULL,NULL,NULL
+128,Still,Expansion,Expansion,Allows 1 extra drink to be served,,5,0,NULL,NULL,NULL
+129,Extra Table,Expansion,Expansion,Allows 1 additional visitor,,5,0,NULL,NULL,NULL
+130,Buffet Bar,Expansion,Human Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+131,Jewel Museum,Expansion,Dwarf Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+132,Tinkering Workshop,Expansion,Goblin Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+133,Fighting Pit,Expansion,Orc Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+134,Tree of Songs,Expansion,Elf Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+135,Noble Stateroom,Expansion,Human Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+136,Stone Hall,Expansion,Dwarf Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+137,Goblin Hovel,Expansion,Goblin Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+138,Orc Shed,Expansion,Orc Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+139,Elven Gardens,Expansion,Elf Unlock,Every dawn 1 rage token may be removed from a human,,1,0,NULL,NULL,NULL
+140,Helm of Vigor,Expansion,Human Unlock,Quests from Humans give +1 fame,,1,0,NULL,NULL,NULL
+141,Horn of Kharzor,Expansion,Dwarf Unlock,Quests from Dwarves give +1 fame,,1,0,NULL,NULL,NULL
+142,Knick-Knack of Courage,Expansion,Goblin Unlock,Quests from Goblins give +1 fame,,1,0,NULL,NULL,NULL
+143,Bracers of Rage,Expansion,Orc Unlock,Quests from Orcs give +1 fame,,1,0,NULL,NULL,NULL
+144,Archive of The Heavens,Expansion,Elf Unlock,Quests from Elves give +1 fame,,1,0,NULL,NULL,NULL
+145,An Elegant Painting,Expansion,Human Unlock,Quests from Humans give +1 fame,,1,0,NULL,NULL,NULL
+146,Engraving of the High King,Expansion,Dwarf Unlock,Quests from Dwarves give +1 fame,,1,0,NULL,NULL,NULL
+147,Mysterious Cauldron,Expansion,Goblin Unlock,Quests from Goblins give +1 fame,,1,0,NULL,NULL,NULL
+148,Weight Training Room,Expansion,Orc Unlock,Quests from Orcs give +1 fame,,1,0,NULL,NULL,NULL
+149,Stable of Noble Creatures,Expansion,Elf Unlock,Quests from Elves give +1 fame,,1,0,NULL,NULL,NULL
+150,Tomb of the Stone King,Expansion,Dwarf Mod,Doubles Dwarven Mission Rewards. Elves & Orcs enter tavern with 1 rage token,,1,0,NULL,NULL,NULL
+151,Elven Performer,Expansion,Elf Mod,Doubles Elven Mission Rewards. Orcs enter tavern with 2 rage,,1,0,NULL,NULL,NULL
+152,Orc Drinking Games,Expansion,Orc Mod,Doubles Orc Mission Rewards. Elves and Humans enter with 1 rage.,,1,0,NULL,NULL,NULL
+153,Goblin Tinkering Trophy,Expansion,Goblin Mod,Doubles Goblin Mission Rewards. Dwarves enter with 2 rage,,1,0,NULL,NULL,NULL
+154,Remnant of the Crown of Swords,Expansion,Human Unlock,Tiebreaker: Allows you to match a bid (and win) on Human visitors during auction.,,1,0,NULL,NULL,NULL
+155,Battleaxe of the First Stone King,Expansion,Dwarf Unlock,Tiebreaker: Allows you to match a bid (and win) on Dwarf visitors during auction.,,1,0,NULL,NULL,NULL
+156,Compendium of Hazardous Recipes,Expansion,Goblin Unlock,Tiebreaker: Allows you to match a bid (and win) on Goblin visitors during auction.,,1,0,NULL,NULL,NULL
+157,Bejeweled Tusk of Ghar Tomaaz,Expansion,Orc Unlock,Tiebreaker: Allows you to match a bid (and win) on Orc visitors during auction.,,1,0,NULL,NULL,NULL
+158,Archive of The Heavens,Expansion,Elf Unlock,Tiebreaker: Allows you to match a bid (and win) on Elf visitors during auction.,,1,0,NULL,NULL,NULL
+159,A Filling Meal!,Action,Hero Activator,Enables a visitor to use their ABILITY,NULL,2,0,NULL,NULL,NULL
+160,A VIP Cocktail,Action,Hero Activator,Enables a visitor to use their ABILITY,NULL,2,0,NULL,NULL,NULL
+161,A Private Booth,Action,Hero Activator,Enables a visitor to use their ABILITY,NULL,2,0,NULL,NULL,NULL
+162,A Birthday Cake,Action,Hero Activator,Enables a visitor to use their ABILITY,NULL,2,0,NULL,NULL,NULL
+163,Breakfast for Dinner,Action,Human Soother,Remove a rage token from a Human,NULL,3,0,human,NULL,NULL
+164,Underdark Moonshine,Action,Dwarf Soother,Remove a rage token from a Dwarf,NULL,3,0,dwarf,NULL,NULL
+165,Elven Goldwine,Action,Elf Soother,Remove a rage token from an Elf,NULL,3,0,elf,NULL,NULL
+166,Suspicious Grog,Action,Orc Soother,Remove a rage token from an Orc,NULL,3,0,orc,NULL,NULL
+167,Fermented Mushrooms,Action,Goblin Soother,Remove a rage token from a Goblin,NULL,3,0,goblin,NULL,NULL
+168,Yep they were here the entire time,Action,Mission Modifier,Send a hero to join rival mission (if correct class) and take 2 fame from reward,NULL,2,0,NULL,NULL,NULL
+169,A shrewd negotiation,Action,Mission Modifier,Play this card during a quest and earn 1 additional fame,NULL,3,0,NULL,NULL,NULL
+170,Stabbin' for Dummies,Action,Warrior Diguise,Allows any hero to count as a Warrior for a quest,NULL,2,0,NULL,NULL,NULL
+171,Stealthy Mask,Action,Bandit Disguise,Allows any hero to count as a Bandit for a quest,NULL,2,0,NULL,NULL,NULL
+172,A Pretty Persuasive Book,Action,Priest Disguise,Allows any hero to count as a Priest for a quest,NULL,2,0,NULL,NULL,NULL
+173,Self-Playing Flute,Action,Troubadour Disguise,Allows any hero to count as a Troubadour for a quest,NULL,2,0,NULL,NULL,NULL
+174,A Pocketful of Glitter,Action,Mage Disguise,Allows any hero to count as a Mage for a quest,NULL,2,0,NULL,NULL,NULL
+175,Gauntlets of Power,Action,Champion Disguise,Allows any hero to count as a Champion for a quest,NULL,2,0,NULL,NULL,NULL
+176,A Demonic Pact,Action,Cultist Disguise,Allows any hero to count as a Cultist for a quest,NULL,2,0,NULL,NULL,NULL
+177,Drink Order,Action,Drink Order,Give to a rival. A drinks must remain on this card until morning.,NULL,4,0,NULL,NULL,NULL
+178,Double Drink Order,Action,2x Drink Orders,Give to a rival. 2 drinks must remain on this card until morning.,NULL,2,0,NULL,NULL,NULL
+179,Bureaucratic Paperwork,Action,Rival Discard Action,A rival must randomly discard an action,NULL,5,0,NULL,NULL,NULL
+180,A Friendly Referral,Action,Send to other bar,Moves a local patron into other tavern,NULL,2,0,NULL,NULL,NULL
+181,Sabotage!,Action,Tantrum,Adds a Rage token onto a rival patron,NULL,5,0,NULL,NULL,NULL
+182,This town SUCKS,Action,Tantrum Exit,Kicks an enraged hero out of rival's tavern,NULL,1,0,NULL,NULL,NULL
+183,Competitive Marketing,Action,Tantrum Exit,Poaches an enraged hero from another tavern,NULL,1,0,NULL,NULL,NULL
+184,Distraction!,Action,Defence,Blocks an attack,NULL,3,0,NULL,NULL,NULL
+185,Expired Barrel,Action,Defence,Counts as 1 drink. Expires at dawn.,NULL,3,0,NULL,NULL,NULL
+186,Open Kegs,Action,Auction Mod,Counts as an additional drink during a bid,NULL,4,0,NULL,NULL,NULL
+187,Coupon,Action,Auction Mod,Doubles the value of a bid,NULL,2,0,NULL,NULL,NULL
+188,A second chance,Action,Auction Mod,Allows you to place another bid on a visitor you previously bid on ,NULL,0,0,NULL,NULL,NULL
