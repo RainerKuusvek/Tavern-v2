@@ -30,6 +30,17 @@ if __name__==    "__main__":
                "mage":5,
                "cultist":6}
 
+    # remove all existing
+    for f in os.listdir("{}\\results\\peeves".format(base_dir)):
+        os.remove("{}\\results\\peeves\\{}".format(base_dir, f))
+    for f in os.listdir("{}\\results\\seasons".format(base_dir)):
+        os.remove("{}\\results\\seasons\\{}".format(base_dir, f))
+    for f in os.listdir("{}\\results\\visitors".format(base_dir)):
+        os.remove("{}\\results\\visitors\\{}".format(base_dir, f))
+    for f in os.listdir("{}\\results\\townsfolk".format(base_dir)):
+        os.remove("{}\\results\\townsfolk\\{}".format(base_dir, f))
+
+
     #open template
     HeroTemplate = Image.open("{}\\herotemplate.png".format(template_dir))
     townsfolkTemplate=Image.open("{}\\townsfolkTemplate.png".format(template_dir))
@@ -39,6 +50,9 @@ if __name__==    "__main__":
     Questtemplate=Image.open("{}\\questtemplate.png".format(template_dir))
     NotableTemplate=Image.open("{}\\notablesTemplate.png".format(template_dir))
     seasonsTemplate=Image.open("{}\\seasonsTemplate.png".format(template_dir))
+    goodPeeveTemplate = Image.open("{}\\goodpeeveTemplate.png".format(template_dir))
+    badPeeveTemplate = Image.open("{}\\badpeeveTemplate.png".format(template_dir))
+
 
     ### open icons
         #races
@@ -104,6 +118,9 @@ if __name__==    "__main__":
     notableDescriptionWidth=31
     builderDescriptionWidth=26
     seasonDescriptionWidth=24
+    peeveTitleWidth=20
+    peeveDescriptionWidth=26
+    peeveDescriptionTextSize=70
 
     #fonts
     titleSize=68; raceclassTextSize=55; heroDescriptionTextSize=57; seasonsDescriptionTextSize=68
@@ -116,11 +133,14 @@ if __name__==    "__main__":
     font_number = ImageFont.truetype(r'{}\\fonts\\dungeon.ttf'.format(base_dir), 60)
     font_seasonsDescription = ImageFont.truetype(r'{}\\fonts\\magical.ttf'.format(base_dir), seasonsDescriptionTextSize)
     fontBuilderDescription=ImageFont.truetype(r'{}\\fonts\\magical.ttf'.format(base_dir), 75)
+    font_peeveTitle = ImageFont.truetype(r'{}\\fonts\\dragon.otf'.format(base_dir), 60)
+    font_peeveDescription = ImageFont.truetype(r'{}\\fonts\\magical.ttf'.format(base_dir), peeveDescriptionTextSize)
 
     #mysterious shift factors
     shiftFactor=0.8
 
     #cardLocations
+    peeveTitleCoords=[35, 35]
     titleCoords=[margin[0], margin[1]+65]
     typeCoords=[margin[0], margin[1]+10]
     cardShift=20
@@ -132,13 +152,14 @@ if __name__==    "__main__":
     townsfolkDescriptionCoords=(margin[0], 360+cardShift)
 
 
-    rage1Coords=(margin[0], int(abilityCoords[1]+220))
+    rage1Coords=(margin[0], int(abilityCoords[1]+210))
     rage2Coords = (margin[0], int(abilityCoords[1]+280))
     notableIconCoords=(margin[0]+180, 150)
     alignmentCoords=(margin[0]+300, 270)
     townsfolkTypeCoords=(margin[0]+180, 120)
     lvlCoords=(cardwidth-210, 200)
 
+    peeveDescriptionCoords=[30, 120]
 
     #mysterious shift factors
     shiftFactor=0.8
@@ -147,6 +168,28 @@ if __name__==    "__main__":
     for card in (cards[:, 0]):
         card=int(card)-1
         for i in range(int(cards[card, 6])): #for every copy of each card
+            ### Peeve
+            if cards[card, 2]=='peeve':
+                if cards[card, 9]=="positive":
+                    cardPNG=goodPeeveTemplate.copy()
+                elif cards[card, 9]=="negative":
+                    cardPNG = badPeeveTemplate.copy()
+
+                I1 = ImageDraw.Draw(cardPNG)
+                # Title
+                text = textwrap.wrap("{}".format(cards[card, 1]), width=int(peeveTitleWidth))
+                for nt in range(len(text)):
+                    I1.text(np.add(peeveTitleCoords, [0, nt * 20 * 0.9]), text[nt], fill=(10, 10, 10),font=font_peeveTitle)
+
+
+                # Description
+                text = textwrap.wrap("{}".format(cards[card, 3]), width=int(peeveDescriptionWidth))
+                peeveTextSquishFactor=0.7
+                for nt in range(len(text)):
+                    I1.text(np.add(peeveDescriptionCoords,[0, nt*peeveDescriptionTextSize*peeveTextSquishFactor]), text[nt], fill=(10, 10, 10), font=font_peeveDescription)
+
+                cardPNG.save("{}\\Results\\peeves\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+
             ### Townsfolk
             if cards[card, 2]=='townsfolk':
 
@@ -226,7 +269,7 @@ if __name__==    "__main__":
 
 
 
-                cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                cardPNG.save("{}\\Results\\townsfolk\\card{}_{}.png".format(base_dir, card + 1, i + 1))
 
             ### QUEST
             if cards[card, 2]=='Quest':
@@ -341,12 +384,12 @@ if __name__==    "__main__":
 
 
 
-                cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card + 1, i + 1))
 
 
             ### MODULE
             if cards[card, 2]=='module':
-                if cards[card, 1]=='Extra Table':
+                if cards[card, 8]=='extratable':
                     cardPNG = ModuleTemplate2.copy()
                     # TYPE
                     I1 = ImageDraw.Draw(cardPNG)
@@ -363,7 +406,21 @@ if __name__==    "__main__":
                     for nt in range(len(text)):
                         I1.text(np.add(descriptionCoords,[130, nt*heroDescriptionTextSize*shiftFactor]), text[nt], fill=(10, 10, 10), font=font_herodescription)
 
-                    cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                    #icon
+                    raceIndex=5
+                    raceIconIndex=(450, 250)
+                    if cards[card, raceIndex]=="human":
+                        cardPNG.paste(human, raceIconIndex, human)  # add icon
+                    if cards[card, raceIndex]=="dwarf":
+                        cardPNG.paste(dwarf, raceIconIndex, dwarf)  # add icon
+                    if cards[card, raceIndex]=="elf":
+                        cardPNG.paste(elf, raceIconIndex, elf)  # add icon
+                    if cards[card, raceIndex]=="orc":
+                        cardPNG.paste(orc, raceIconIndex, orc)  # add icon
+                    if cards[card, raceIndex]=="goblin":
+                        cardPNG.paste(goblin, raceIconIndex, goblin)  # add icon
+
+                    cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card + 1, i + 1))
 
                 elif cards[card, 3]=='coach':
                     cardPNG = ModuleTemplate3.copy()
@@ -397,7 +454,7 @@ if __name__==    "__main__":
                     if cards[card, 5] == "warrior":
                         cardPNG.paste(warrior, (xCoord, yCoord), warrior)  # add icon
 
-                    cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                    cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card + 1, i + 1))
 
 
                 else:
@@ -437,7 +494,7 @@ if __name__==    "__main__":
                     for nt in range(len(text)):
                         I1.text(np.add(raceCoords,[shift+20, 70+shift+nt*heroDescriptionTextSize*shiftFactor]), text[nt], fill=(10, 10, 10), font=fontBuilderDescription)
 
-                    cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                    cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card + 1, i + 1))
 
             ### HERO
             if cards[card, 2]=='Hero':
@@ -515,20 +572,23 @@ if __name__==    "__main__":
 
                 #Rage 1
                 #I1.text(rage1Coords, 'RAGE 1 EFFECT: ', fill=(10, 10, 10), font=font_herodescription)
-                yShift=-5
+                yShift = -5
+                '''
+                
                 cardPNG.paste(rage, (rage1Coords[0], rage1Coords[1] + yShift), rage)  # add icon
                 text = textwrap.wrap("{}".format(cards[card, 4]), width=int(heroRageWidth))
                 for nr in range(len(text)):
                     I1.text(np.add(rage1Coords,[90, (nr)*heroDescriptionTextSize*shiftFactor]), text[nr], fill=(10, 10, 10), font=font_herodescription)
-
+                '''
                 # Rage 2
                 #I1.text(rage2Coords, 'RAGE 2 EFFECT: ', fill=(10, 10, 10), font=font_herodescription)
-                cardPNG.paste(rage, (rage2Coords[0]+15, rage2Coords[1] + yShift), rage)  # add icon
-                cardPNG.paste(rage, (rage2Coords[0], rage2Coords[1] + yShift), rage)  # add icon
-                cardPNG.paste(plus, (rage2Coords[0] + 50, rage2Coords[1] + yShift+20), plus)  # add icon
+                cardPNG.paste(rage, (rage1Coords[0] + 30, rage1Coords[1] + yShift), rage)  # add icon
+                cardPNG.paste(rage, (rage1Coords[0]+15, rage1Coords[1] + yShift), rage)  # add icon
+                cardPNG.paste(rage, (rage1Coords[0], rage1Coords[1] + yShift), rage)  # add icon
+                #cardPNG.paste(plus, (rage1Coords[0] + 50, rage1Coords[1] + yShift+20), plus)  # add icon
                 text = textwrap.wrap("{}".format(cards[card, 5]), width=int(heroRageWidth))
                 for nr1 in range(len(text)):
-                    I1.text(np.add(rage2Coords, [90, (nr1) * heroDescriptionTextSize*shiftFactor]), text[nr1], fill=(10, 10, 10), font=font_herodescription)
+                    I1.text(np.add(rage1Coords, [90, (nr1) * heroDescriptionTextSize*shiftFactor]), text[nr1], fill=(10, 10, 10), font=font_herodescription)
 
                 if cards[card, 7]=='1':
                     cardPNG.paste(evil, (alignmentCoords[0], classCoords[1]+raceclassTextSize), evil)  # add icon
@@ -554,7 +614,7 @@ if __name__==    "__main__":
 
                 #print(cards[card, 6])
 
-                cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card+1, i + 1))
+                cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card+1, i + 1))
                 #if card==1:
                     #sys.exit()
 
@@ -621,7 +681,7 @@ if __name__==    "__main__":
                             cardPNG.paste(cultist, (xCoord+font_raceclass.getsize('cultist   ')[0], yCoord), cultist)  # add icon
 
 
-                cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                cardPNG.save("{}\\Results\\seasons\\card{}_{}.png".format(base_dir, card + 1, i + 1))
             ### Notables
             if cards[card, 2] == 'notable':
                 cardPNG = NotableTemplate.copy()
@@ -672,14 +732,15 @@ if __name__==    "__main__":
                 for na in range(len(text)):
                     I1.text(np.add(abilityCoords,[0, (na+1)*heroDescriptionTextSize*shiftFactor]), text[na], fill=(10, 10, 10), font=font_herodescription)
 
+                description2Coords=(margin[0], int(abilityCoords[1]+180))
                 if cards[card, 9]!='mayor':
-                    I1.text(rage2Coords, 'APPOINTMENT BONUS:', fill=(10, 10, 10), font=font_herodescription)
+                    I1.text(description2Coords, 'APPOINTMENT BONUS:', fill=(10, 10, 10), font=font_herodescription)
                 text = textwrap.wrap("{}".format(cards[card, 5]), width=int(notableDescriptionWidth))
                 for na in range(len(text)):
-                    I1.text(np.add(rage2Coords,[0, (na+1)*heroDescriptionTextSize*shiftFactor]), text[na], fill=(10, 10, 10), font=font_herodescription)
+                    I1.text(np.add(description2Coords,[0, (na+1)*heroDescriptionTextSize*shiftFactor]), text[na], fill=(10, 10, 10), font=font_herodescription)
 
 
-                cardPNG.save("{}\\Results\\card{}_{}.png".format(base_dir, card + 1, i + 1))
+                cardPNG.save("{}\\Results\\visitors\\card{}_{}.png".format(base_dir, card + 1, i + 1))
     #OLD CODE################################################################################################################
     ################################################################################################################################
     sys.exit()

@@ -1,185 +1,195 @@
 Card Number,Card Name,Type,Note 1,Note 2,Note 3,Number,Contraband,Requirement 1,Requirement 2,Requirement 3,Tally
-NUMBER,NULL,NULL,NULL,NULL,NULL,211,NULL,NULL,NULL,NULL,
-1,Lunch Diggums,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,warrior,1,1
-2,Kira 'Four Eyes' Darris,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,warrior,1,2
-3,Dimm Dougan,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,warrior,1,3
-4,Telamaine Carpis,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,warrior,1,4
-5,Beliana Rose,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,warrior,1,5
-6,Knifey Stevens,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,1,human,bandit,2,6
-7,Eziah Vorkas,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,1,human,bandit,2,7
-8,Aces Trixie,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,1,human,bandit,2,8
-9,Walter Wordsmith,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,troubadour,2,9
-10,Virtuoso Dann,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,troubadour,2,10
-11,Soph The Baladeer,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,troubadour,2,11
-12,Liara Blackheart,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,1,human,cultist,3,12
-13,Brigitte Bowbreaker,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,1,human,cultist,3,13
-14,Diane Carmont,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,mage,3,14
-15,Damien Heartrender,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Bar Fight: Select 1 other patron to rage,1,0,human,champion,3,15
-16,Kuzmaran Underfury,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,warrior,1,16
-17,Tugos Boomblade,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,warrior,1,17
-18,Mira Minehelm,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,warrior,1,18
-19,Folgi Flaskbow,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,1,dwarf,bandit,2,19
-20,Noznuk Nightstalker,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,1,dwarf,bandit,2,20
-21,Wex Nekwester,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,troubadour,2,21
-22,Avo Granitegut,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,troubadour,2,22
-23,Zagu the Holy,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,mage,3,23
-24,Ymos Cloudcaller,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,mage,3,24
-25,Rundath of the Red Keep,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,champion,3,25
-26,Yula Duskrock,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,0,dwarf,champion,3,26
-27,Ashra the Born-Again,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,1,dwarf,cultist,3,27
-28,Hazzhara Frostpeak,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Dwarven Suspicion: Orcs and Elves rage,1,1,dwarf,cultist,3,28
-29,Vulosh Anklebiter,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,warrior,1,29
-30,Iglin Whitethaw,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,warrior,1,30
-31,Nengaz Deadeye,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,warrior,1,31
-32,Styxie Stickypalms,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,1,goblin,bandit,2,32
-33,Wizha Whalebone,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,1,goblin,bandit,2,33
-34,Banjo Gibblets,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,troubadour,2,34
-35,Tenpenny Zog,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,troubadour,2,35
-36,Luxo Brighteye,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,mage,3,36
-37,Hex Wexler,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,mage,3,37
-38,Miza Frogspear,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,champion,3,38
-39,Vrox the Fortunate,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,0,goblin,champion,3,39
-40,Nuul the Wretched,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,1,goblin,cultist,3,40
-41,Gizmo of the Machine God,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Minor Inconveniences: Reveal townsfolk & revealed townsfolk rage,1,1,goblin,cultist,3,41
-42,Dolgash the Bloodied,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,warrior,1,42
-43,Kresh the Finger,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,1,orc,bandit,2,43
-44,Torvak the Hungry,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,1,orc,bandit,2,44
-45,Zheza the Booming,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,troubadour,2,45
-46,Gorlash the Barittwo,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,troubadour,2,46
-47,Dakzogh The Soul Harvester,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,mage,3,47
-48,Juzhug of the Silver Sea,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,mage,3,48
-49,Crunchtime Korg,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,champion,3,49
-50,Gorlash Giantsbane,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,champion,3,50
-51,Vorkhra Gnashblade,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,0,orc,champion,3,51
-52,Zhor of the Blackmoon,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,1,orc,cultist,3,52
-53,Kruuzin Bruuz,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,Causing chaos: One Townsfolk exits,1,1,orc,cultist,3,53
-54,Vadrienne the Astute,Hero,Cause a Punchup: Causes 1 rage in rival tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,warrior,1,54
-55,Qirana The Calculating,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,1,elf,bandit,2,55
-56,Melaana Soothspeaker,Hero,False Advertising: For 2 drinks immediately bring an unbid or 1-bid visitor into tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,1,elf,bandit,2,56
-57,Aourus the Spark,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,troubadour,2,57
-58,Jii Foraa,Hero,Words of Comfort: Remove two rage token from tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,troubadour,2,58
-59,Vadrienne the Astute,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,mage,3,59
-60,Aela Goldentrail,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,mage,3,60
-61,Wyan of the One Star,Hero,A Magic Spectacle: Invite two new Townsfolk to tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,mage,3,61
-62,Elnan The Forest Guardian,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,champion,3,62
-63,Perilax Longstrider,Hero,Adventurer's Thirst: Steal 2 drinks from rival tavern. Drinks returned at dawn.,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,champion,3,63
-64,Sylyarus Autumnshade,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,cultist,3,64
-65,Timondel of the Eternal Night,Hero,Destruction Ceremony: Destroy 1 module from rival tavern but 1 rage to all in local tavern,Plus 1 Drink Req.,An Upturned Nose: -1 Fame,1,0,elf,cultist,3,65
-66,Rescue Cat From Tree,Quest,2,null,null,1,0,any,null,human,66
-67,Teach Bully A Lesson,Quest,3,null,null,1,0,warrior,null,dwarf,67
-68,Fetch Ball from Neighbor,Quest,5,null,null,1,1,bandit,null,goblin,68
-69,Bless The Newborn,Quest,4,null,null,1,0,troubadour,null,orc,69
-70,Entertain a Bar Crowd,Quest,4,null,null,1,0,mage,null,human,70
-71,Snazz Up Kid's Birthday,Quest,4,null,null,1,0,champion,null,dwarf,71
-72,Arm-Wrestling Championship,Quest,6,null,null,1,1,cultist,null,elf,72
-73,Curse A Coworker,Quest,2,null,null,1,0,any,null,dwarf,73
-74,A Shopping Trip,Quest,3,null,null,1,0,warrior,null,human,74
-75,Sparring Match,Quest,5,null,null,1,1,bandit,null,orc,75
-76,Forge Some Papers,Quest,4,null,null,1,0,troubadour,null,human,76
-77,Accept a Thief's Confession,Quest,4,null,null,1,0,mage,null,elf,77
-78,Coach Nerd on his Date,Quest,4,null,null,1,0,champion,null,human,78
-79,Harvest Magic Wine Grapes,Quest,6,null,null,1,1,cultist,null,goblin,79
-80,Pose for a Still Life Painting,Quest,2,4,null,1,0,any,any,human,80
-81,Perform Close-up Magic,Quest,2,4,null,1,0,any,any,goblin,81
-82,Escort A Merchant to Market,Quest,2,5,null,1,0,any,warrior,elf,82
-83,Steal some Tax Documents,Quest,3,7,null,1,1,any,bandit,orc,83
-84,Negotiate a Good Price on Jewels,Quest,2,5,null,1,0,any,troubadour,dwarf,84
-85,Gather Wyrd Root for the Ritual,Quest,2,6,null,1,0,any,mage,orc,85
-86,Test Prototype Magic Armor,Quest,2,6,null,1,0,any,champion,elf,86
-87,Destroy the Sacred Manuscript,Quest,3,7,null,1,1,any,cultist,goblin,87
-88,Bodyguard the Mayor,Quest,3,6,null,1,0,warrior,warrior,orc,88
-89,Pickpocket an Elven Artifact,Quest,4,8,null,1,1,warrior,bandit,elf,89
-90,Investigate the Castle Ruins,Quest,3,6,null,1,0,warrior,troubadour,human,90
-91,Chart Route through the Darkwood,Quest,3,7,null,1,0,warrior,mage,goblin,91
-92,Activate the Blood Gate,Quest,3,7,null,1,0,warrior,champion,orc,92
-93,Reclaim the Eye of Khuzzok,Quest,4,8,null,1,1,warrior,cultist,human,93
-94,Double-Cross the Mob Boss,Quest,5,9,null,1,1,bandit,bandit,goblin,94
-95,Ensure the Mayor Takes the Bribe,Quest,4,8,null,1,1,bandit,troubadour,elf,95
-96,Break in to the RockVault,Quest,5,9,null,1,1,bandit,mage,dwarf,96
-97,Capture the Lurker in the Sewers,Quest,5,9,null,1,1,bandit,champion,human,97
-98,Bamboozle the Town Watch,Quest,5,10,null,1,1,bandit,cultist,goblin,98
-99,Calm the Mad King with Song,Quest,3,7,null,1,0,troubadour,troubadour,human,99
-100,Regrow the Magical Wood with Music,Quest,3,7,null,1,0,troubadour,mage,elf,100
-101,Write a New Heroic Epic,Quest,3,7,null,1,0,troubadour,champion,orc,101
-102,Investigate Mysterious Portal,Quest,3,8,null,1,0,troubadour,cultist,goblin,102
-103,Stabilise the Rift in Reality,Quest,4,7,null,1,0,mage,mage,dwarf,103
-104,Calm the Monster-In-The-Lake,Quest,4,7,null,1,0,mage,champion,elf,104
-105,Kidnap the Corrupt Official,Quest,5,9,null,1,1,mage,cultist,human,105
-106,Return the Heir to the Orc Kingdoms,Quest,4,7,null,1,0,champion,champion,orc,106
-107,Find the Lost Dwarven Hoard,Quest,4,8,null,1,0,champion,cultist,dwarf,107
-108,Ensnare the Red Dawn,Quest,5,10,null,1,1,cultist,cultist,dwarf,108
-109,Magnificent Statue,module,Expansion,Adds 2 fame to tavern,fame,4,0,NULL,NULL,NULL,112
-110,Still,module,Expansion,Allows 1 extra drink to be served,drink,7,0,NULL,NULL,NULL,119
-111,Extra Table,module,Expansion,Allows 1 extra visitor,NULL,4,0,NULL,NULL,NULL,123
-112,Buffet Bar,module,Human Unlock,Every dawn 1 rage token may be removed from a human,human,1,0,NULL,NULL,NULL,124
-113,Jewel Museum,module,Dwarf Unlock,Every dawn 1 rage token may be removed from a dwarf,dwarf,1,0,NULL,NULL,NULL,125
-114,Tinkering Workshop,module,Goblin Unlock,Every dawn 1 rage token may be removed from a goblin,goblin,1,0,NULL,NULL,NULL,126
-115,Fighting Pit,module,Orc Unlock,Every dawn 1 rage token may be removed from a orc,orc,1,0,NULL,NULL,NULL,127
-116,Tree of Songs,module,Elf Unlock,Every dawn 1 rage token may be removed from a elf,elf,1,0,NULL,NULL,NULL,128
-117,Helm of Vigor,module,Human Unlock,Every dawn 1 rage token may be removed from a elf,human,1,0,NULL,NULL,NULL,129
-118,Horn of Kharzor,module,Dwarf Unlock,Quests from Dwarves give +2 fame,dwarf,1,0,NULL,NULL,NULL,130
-119,Knick-Knack of Courage,module,Goblin Unlock,Quests from Goblins give +2 fame,goblin,1,0,NULL,NULL,NULL,131
-120,Bracers of Rage,module,Orc Unlock,Quests from Orcs give +2 fame,orc,1,0,NULL,NULL,NULL,132
-121,Rootweave Greaves,module,Elf Unlock,Quests from Elves give +2 fame,elf,1,0,NULL,NULL,NULL,133
-122,An Elegant Painting,module,Human Unlock,Quests from Humans give +2 fame,human,1,0,NULL,NULL,NULL,134
-123,Engraving of Khazaar's Magnificent Beard,module,Dwarf Mod,+3 to Dwarven Quest rewards. Elves & Goblins enter tavern with 1 rage token,dwarf,1,0,NULL,NULL,NULL,135
-124,Mysterious Cauldron,module,Goblin Unlock,+3 to Goblin Quest rewards. Dwarves and Elves enter with 1 rage,goblin,1,0,NULL,NULL,NULL,136
-125,Weight Training Room,module,Orc Unlock,+3 to Orc Quest rewards. Dwarves and Elves enter with 1 rage,orc,1,0,NULL,NULL,NULL,137
-126,Stable of Noble Creatures,module,Elf Unlock,+3 to Elven Quest rewards. Goblins and Orcs enter tavern with 1 rage,elf,1,0,NULL,NULL,NULL,138
-127,Remnant of the Crown of Swords,module,Human Unlock,Tiebreaker: Allows you to match a bid (and beat) on Human visitors during auction.,human,1,0,NULL,NULL,NULL,139
-128,Battleaxe of the First Stone King,module,Dwarf Unlock,Tiebreaker: Allows you to match a bid (and beat) on Dwarf visitors during auction.,dwarf,1,0,NULL,NULL,NULL,140
-129,Compendium of Hazardous Recipes,module,Goblin Unlock,Tiebreaker: Allows you to match a bid (and beat) on Goblin visitors during auction.,goblin,1,0,NULL,NULL,NULL,141
-130,Bejeweled Tusk of Ghar Tomaaz,module,Orc Unlock,Tiebreaker: Allows you to match a bid (and beat) on Orc visitors during auction.,orc,1,0,NULL,NULL,NULL,142
-131,Archive of The Heavens,module,Elf Unlock,Tiebreaker: Allows you to match a bid (and beat) on Elf visitors during auction.,elf,1,0,NULL,NULL,NULL,143
-132,Hidden Cellar,module,Contraband,Allows 1 Visitor or Townsfolk to avoid being revealed or ejected by the law,NULL,2,1,NULL,NULL,NULL,145
-133,Gambling den,module,Contraband,Criminal Missions give +2 fame reward,NULL,2,1,NULL,NULL,NULL,147
-134,Stage,module,Townsfolk,When inviting Townsfolk from Mayor look at 4 cards instead of 2,NULL,1,1,NULL,NULL,NULL,148
-135,Troubadour Coach,module,coach,Troubadour can be recruited to here. Other heroes can then become Troubadours for Quests,troubadour,1,0,NULL,NULL,NULL,149
-136,Bandit Coach,module,coach,Bandit can be recruited to here. Other heroes can become Bandit for Quests,bandit,1,0,NULL,NULL,NULL,150
-137,Mage Coach,module,coach,Mage can be recruited to here. Other heroes can become Mage for Quests,mage,1,0,NULL,NULL,NULL,151
-138,Champion Coach,module,coach,Champion can be recruited to here. Other heroes can become Champion for Quests,champion,1,0,NULL,NULL,NULL,152
-139,Cultist Coach,module,coach,Cultist can be recruited to here. Other heroes can become Cultist for Quests,cultist,1,0,NULL,NULL,NULL,153
-140,Motivational Speaker,townsfolk,Ability Activator,Enables a visitor to use their ABILITY,activator,5,0,NULL,human/dwarf/elf/orc/goblin,NULL,158
-141,Smooth Speaker,townsfolk,Soother,Remove a rage token from a Visitor,soother,5,0,human,human/dwarf/elf/orc/goblin,NULL,163
-142,Disguise Expert,townsfolk,Mission Modifier,Send a hero to join rival mission (if correct class) and take 2 fame from reward,mission modifier,1,1,NULL,goblin/orc,NULL,164
-143,Health Inspector,townsfolk,Drink Order,Give to a rival. A drink must remain on this card until morning.,attack,3,0,NULL,human/dwarf/elf/orc/goblin,NULL,167
-144,Gossip Busybody,townsfolk,Rival Discard Action,A rival must eject one Townsfolk from Tavern,attack,1,0,NULL,human/dwarf/elf/orc/goblin,NULL,168
-145,Local Owed a Favor,townsfolk,Send to other bar,Moves a local Visitor into other tavern if there is space,attack,2,0,NULL,human/dwarf,NULL,170
-146,Enterprising Orphans,townsfolk,Tantrum,Add a Rage token onto chosen rival patron,attack,3,1,NULL,human/dwarf/elf/orc/goblin,NULL,173
-147,Brochure Manufacturer,townsfolk,Attack,Kicks an enraged hero out of rival's tavern,attack,1,0,NULL,orc,NULL,174
-148,Spy,townsfolk,Attack,Poaches an enraged hero from another tavern,attack,1,1,NULL,elf,NULL,175
-149,Fall Guy,townsfolk,Defence,Blocks an attack,defence,2,0,NULL,elf/orc/goblin,NULL,177
-150,Narc,townsfolk,Attack,In rival tavern all revealed criminal patrons gains 1 rage,anticriminal,1,0,NULL,human/goblin/elf,NULL,178
-151,Rich Benefactor,townsfolk,Auction Mod,Play WITH a bid: Doubles the value of a bid,auction,1,1,NULL,dwarf/human/orc,NULL,179
-152,Hype Man,townsfolk,Auction Mod,Allows you to place another bid on a visitor you previously bid on ,auction,1,0,NULL,human/goblin/elf,NULL,180
-153,Season of the Brave Hero,Event,quests,+1 fame to all quest rewards,4,1,null,null,null,6,181
-154,Season of the Dark Blizzard,Event,townsfolk,No Townsfolk available to be invited,3,1,null,null,null,5,182
-155,Season of the Solstice Market,Event,townsfolk,Double number of Townsfolk per drink,2,1,null,null,null,4,183
-156,Season of the Anti-Magic Storm,Event,rage,Mages / Cultists all gain 1 rage including those in Town.,3,1,null,mage/cultist,null,5,184
-157,Season of Great Weapons Inspection ,Event,rage,Warriors /  Champions all gain 1 rage including those in Town.,3,1,null,warrior/champion,null,5,185
-158,Season of No Nonsense,Event,rage,Troubadours / Bandits all gain 1 rage include those in Town.,3,1,null,bandit/troubadour,null,5,186
-159,Season of Reflection,Event,rage,If number of rage is higher than number of Heroes then one hero leaves tavern,4,1,null,null,null,6,187
-160,Season of the Mosquito Swarm,Event,rage,Double rage gains today,4,1,null,null,null,6,188
-161,Season of Forgiveness,Event,criminal,Criminals cannot be targeted today,2,1,null,null,null,4,189
-162,Town Inspection Season ,Event,notables,Bids on notables CANNOT be tiebroken,5,1,null,null,null,7,190
-163,Season of Deep Pockets,Event,bidding,Winner of most-valuable bid wins +3 fame,3,1,null,null,null,5,191
-164,Season of Hearth and Open Doors,Event,bidding,Winner of the most visitors today wins +3 fame,5,1,null,null,null,7,192
-165,Season of Temperance,Event,drink requirement,Taverns can be up to 2 drinks short at night with no rage effects,5,1,null,null,null,7,193
-166,Yuletime Season,Event,race,+2 to fame rewards for Human questgivers,4,1,null,human,null,6,194
-167,Season of the Mountain Worship,Event,race,+2 to fame rewards for Dwarf questgivers,4,1,null,dwarf,null,6,195
-168,Season of the Clinker Clanker God,Event,race,+2 to fame rewards for Goblin questgivers,4,1,null,goblin,null,6,196
-169,Season of the Hunt,Event,race,+2 to fame rewards for Orc questgivers,3,1,null,orc,null,5,197
-170,Season of the Treetop Vigil,Event,race,+2 to fame rewards for Elf questgivers,3,1,null,elf,null,5,198
-171,Season of Vigilance,Event,criminal,Before bidding starts all revealed criminals gain 1 rage,4,1,null,null,null,6,199
-172,Season of the Common Man,Event,townsfolk,Every Townsfolk in tavern gives 1 fame,5,1,null,null,null,7,200
-173,Mayor,notable,For 1 drink look at next 2 Townsfolk in deck and invite 1 into tavern face down. Drink refunded at sunset.,fixed,Present from game start. No limit to purchases.,1,0,0,mayor,0,201
-174,Constable,notable,Once appointed this card is biddable. At target tavern revealed criminal Visitors gain 1 rage. Revealed criminal Townsfolk are ejected.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,constable,0,202
-175,Carpenter,notable,Once appointed this card is biddable. Adds one drink capacity to tavern.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,carpenter,0,203
-176,Auditor,notable,Once appointed this card is biddable. Winner can forcibly reveal all hidden Townsfolk in rival tavern.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,auditor,0,204
-177,Entertainer,notable,Once appointed this card is biddable. Removes a rage token from Visitor or Townsfolk.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,entertainer,0,205
-178,Town Crier,notable,Once appointed this card is biddable. Winner can choose to add +1 Visitors next morning per winning bid drink .,bid,First winner can appoint hero to this position for+2 fame,1,0,0,crier,0,206
-179,Temperance Witch,notable,Once appointed this card is biddable. Permanently remove 1 drink capacity in exchange for 2 fame,bid,First winner can appoint hero to this position for+2 fame,1,0,0,temperance,0,207
-180,National Envoy,notable,Once appointed this card is biddable. Gain 1 fame.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,envoy,0,208
-181,Recruiter,notable,Once appointed every day add two a face-up Townsfolk card along with other Visitors which is biddable as a group.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,recruiter,0,209
-182,Street Tough,notable,Once appointed this card is biddable. Transfer local patron into rival tavern if there is space.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,tough,0,210
-183,Hired Nuisance,notable,Once appointed this card is biddable. Winner can cause a point of rage in another tavern.,bid,First winner can appoint hero to this position for+2 fame,1,0,0,nuisance,0,211
+NUMBER,NULL,NULL,NULL,NULL,NULL,243,NULL,NULL,NULL,NULL,
+1,Tenpenny Zog,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Bandit,1,1
+2,Zheza the Booming,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Bandit,1,2
+3,Kruuzin Bruuz,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Bandit,1,3
+4,Krash,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Bandit,1,4
+5,Freddie Dusthoof,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Bandit,1,5
+6,Pronghorn Joe,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Vaudevillian,2,6
+7,Gargos The Charmer,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Vaudevillian,2,7
+8,Kellie Crowdlifter,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Vaudevillian,2,8
+9,Bobo Bohrs,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Vaudevillian,2,9
+10,Squingle Sageleaf,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Ranger,2,10
+11,Dimm Dougan,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Ranger,2,11
+12,Koro Meadowrunner,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Ranger,2,12
+13,Chuck Rucker,Hero,Calming Elixir: Remove rage token from tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Elixirist,3,13
+14,Ezekiel Rustmane,Hero,Calming Elixir: Remove rage token from tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Elixirist,3,14
+15,Brahl the Mechnomancer ,Hero,Calming Elixir: Remove rage token from tavern,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Elixirist,3,15
+16,Roary Ironhide,Hero,Town Klaxon: Every other tavern gains one peeve,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Contraptioneer,3,16
+17,Lugnut Wallins,Hero,Town Klaxon: Every other tavern gains one peeve,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Contraptioneer,3,17
+18,Kallax Redbridge,Hero,Town Klaxon: Every other tavern gains one peeve,Commiseration: A drink must remain on this card until dawn. Does not stack.,,1,,Buffalonian,Contraptioneer,3,18
+19,Stabbin' Dave,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Bandit,1,19
+20,Finn Softpaw,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Bandit,1,20
+21,Scamp Scitterwick,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Bandit,1,21
+22,Bobbie Bramblepaw,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Bandit,1,22
+23,Biscuit Whiskers,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Bandit,1,23
+24,Banjo Gibblets,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Vaudevillian,2,24
+25,Virtuoso Dann,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Vaudevillian,2,25
+26,Chet Snaggletooth,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Vaudevillian,2,26
+27,Ashwin Pathsinger,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Ranger,2,27
+28,Colin The Silver Toe,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Ranger,2,28
+29,Ruth Soothspeaker,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Ranger,2,29
+30,Forn Furrowhisk ,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Ranger,2,30
+31,Redsap Stevens,Hero,Calming Elixir: Remove rage token from tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Elixirist,3,31
+32,Snuffle the Fortunate,Hero,Calming Elixir: Remove rage token from tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Elixirist,3,32
+33,Fievel Thumb,Hero,Calming Elixir: Remove rage token from tavern,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Elixirist,3,33
+34,Gizmo of the Machine God,Hero,Town Klaxon: Every other tavern gains one peeve,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Contraptioneer,3,34
+35,Knickknack Jack,Hero,Town Klaxon: Every other tavern gains one peeve,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Contraptioneer,3,35
+36,Garro the Greaseball,Hero,Town Klaxon: Every other tavern gains one peeve,Minor Inconveniences: Reveal townsfolk and revealed townsfolk rage,,1,,Mousefolk,Contraptioneer,3,36
+37,Torvak the Hungry,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Bandit,1,37
+38,Folgi Flaskbow,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Bandit,1,38
+39,Noznuk Nightstalker,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Bandit,1,39
+40,Dakzogh The Desert Wisp,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Bandit,1,40
+41,Ashra the Born-Again,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Vaudevillian,2,41
+42,Wizha Whalebone,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Vaudevillian,2,42
+43,Yula Duskrock,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Vaudevillian,2,43
+44,Dolgash Hymntuner,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Vaudevillian,2,44
+45,Rundath of the Red Keep,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Ranger,2,45
+46,Nengaz Deadeye,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Ranger,2,46
+47,Avo Granitegut,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Ranger,2,47
+48,Miza Frogspear,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Ranger,2,48
+49,Hex Wexler,Hero,Calming Elixir: Remove rage token from tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Elixirist,3,49
+50,Ymos Cloudcaller,Hero,Calming Elixir: Remove rage token from tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Elixirist,3,50
+51,Zagu the Holy,Hero,Calming Elixir: Remove rage token from tavern,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Elixirist,3,51
+52,Kresh the Finger,Hero,Town Klaxon: Every other tavern gains one peeve,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Contraptioneer,3,52
+53,Juzhug of the Silver Sea,Hero,Town Klaxon: Every other tavern gains one peeve,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Contraptioneer,3,53
+54,Crunchtime Korg,Hero,Town Klaxon: Every other tavern gains one peeve,Causing Chaos: Modules have no effect while this hero has 2 rage,,1,,Coyotekin,Contraptioneer,3,54
+55,Beliana Rose,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Bandit,1,55
+56,Brigitte Talonbreaker,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Bandit,1,56
+57,Knifey Stevens,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Bandit,1,57
+58,Eziah Vorkas,Hero,Sabotage: Disable two modules and their effects in a rival's tavern for today,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Bandit,1,58
+59,Soph The Baladeer,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Vaudevillian,2,59
+60,Qiara the Occasional Acrobat,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Vaudevillian,2,60
+61,Walter Wordsmith,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Vaudevillian,2,61
+62,Aces Trixis,Hero,A Persuasive Ballad: Entice a townsfolk from another tavern into yours. Clear their rage.,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Vaudevillian,2,62
+63,Diane Skymont,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Ranger,2,63
+64,Perilax Longstrider,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Ranger,2,64
+65,Sylyarus Autumnshade,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Ranger,2,65
+66,Elnan The Forest Shadow,Hero,Friendly Invitation: For 3 total drinks immediately bring an unbid or 1-bid visitor into tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Ranger,2,66
+67,Damien Heartrender,Hero,Calming Elixir: Remove rage token from tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Elixirist,3,67
+68,Liara Blackheart,Hero,Calming Elixir: Remove rage token from tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Elixirist,3,68
+69,Aela Goldenbeak,Hero,Calming Elixir: Remove rage token from tavern,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Elixirist,3,69
+70,Vadrienne the Astute,Hero,Town Klaxon: Every other tavern gains one peeve,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Contraptioneer,3,70
+71,Aourus the Spark,Hero,Town Klaxon: Every other tavern gains one peeve,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Contraptioneer,3,71
+72,Wylan Steelwing,Hero,Town Klaxon: Every other tavern gains one peeve,An Upturned Beak: Minus 1 Fame,,1,,Eaglemen,Contraptioneer,3,72
+73,Fetch the Artisan's Tools,Quest,3,5,Mousefolk,1,,any,any,,73
+74,Teach Bully A Lesson,Quest,3,6,Coyotekin,1,,any,Bandit,,74
+75,Coach Nerd On His Date,Quest,3,6,Eaglemen,1,,any,Vaudevillian,,75
+76,Arm-Wrestling Championship,Quest,3,6,Buffalonian,1,,any,Ranger,,76
+77,Treat a Cough,Quest,3,8,Mousefolk,1,,any,Elixirist,,77
+78,Technical Support,Quest,3,8,Coyotekin,1,,any,Contraptioneer,,78
+79,Break Into The Azure Vault,Quest,4,7,Eaglemen,1,,Bandit,Bandit,,79
+80,Ensure the Mayor Takes the Bribe,Quest,4,7,Buffalonian,1,,Bandit,Vaudevillian,,80
+81,Pickpocket an Ancient Artifact,Quest,4,7,Mousefolk,1,,Bandit,Ranger,,81
+82,Steal Magic Wine Grapes,Quest,4,9,Coyotekin,1,,Bandit,Elixirist,,82
+83,Sabotage the Railway,Quest,4,9,Eaglemen,1,,Bandit,Contraptioneer,,83
+84,Plan the Perfect Show,Quest,4,7,Buffalonian,1,,Vaudevillian,Vaudevillian,,84
+85,Calm the Mad King with Song,Quest,4,7,Mousefolk,1,,Vaudevillian,Ranger,,85
+86,Regrow the Magical Wood with Music,Quest,4,9,Coyotekin,1,,Vaudevillian,Elixirist,,86
+87,Negotiate a Good Price on Jewels,Quest,4,9,Eaglemen,1,,Vaudevillian,Contraptioneer,,87
+88,Stake Out Mysterious Encampment,Quest,4,7,Buffalonian,1,,Ranger,Ranger,,88
+89,Gather Wyrd Root for the Ritual,Quest,4,9,Mousefolk,1,,Ranger,Elixirist,,89
+90,Investigate the Haunted Mine,Quest,4,9,Coyotekin,1,,Ranger,Contraptioneer,,90
+91,Poison the Pirate Army,Quest,6,11,Eaglemen,1,,Elixirist,Elixirist,,91
+92,Bring Life to the Automaton,Quest,6,11,Buffalonian,1,,Elixirist,Contraptioneer,,92
+93,Deploy the Landship at the Mountain,Quest,6,11,Mousefolk,1,,Contraptioneer,Contraptioneer,,93
+94,Double-Cross the Mob Boss,Quest,4,7,Coyotekin,1,,Bandit,Bandit,,94
+95,Bamboozle the Town Watch,Quest,4,7,Eaglemen,1,,Vaudevillian,Bandit,,95
+96,Kidnap the Corrupt Official,Quest,4,7,Buffalonian,1,,Ranger,Bandit,,96
+97,Escort Mystic to the Negotiation,Quest,4,9,Mousefolk,1,,Elixirist,Bandit,,97
+98,Destroy the Sacred Manuscript,Quest,4,9,Coyotekin,1,,Contraptioneer,Bandit,,98
+99,Enrapture the Spirit of Undeath,Quest,4,7,Eaglemen,1,,Vaudevillian,Vaudevillian,,99
+100,Write a New Heroic Epic,Quest,4,7,Buffalonian,1,,Ranger,Vaudevillian,,100
+101,Sell the Guildmaster the Ultimate Snakeoil,Quest,4,9,Mousefolk,1,,Elixirist,Vaudevillian,,101
+102,Unite the Striking Railroad Unions,Quest,4,9,Coyotekin,1,,Contraptioneer,Vaudevillian,,102
+103,Chart Route through the Darkwood,Quest,4,7,Eaglemen,1,,Ranger,Ranger,,103
+104,Capture the Lurker in the Sewers,Quest,4,9,Buffalonian,1,,Elixirist,Ranger,,104
+105,Test Prototype Steam Armor,Quest,4,9,Mousefolk,1,,Contraptioneer,Ranger,,105
+106,Rescue Pet From Tree,Quest,6,11,Coyotekin,1,,any,any,,106
+107,Reclaim Ball from Neighbor's Yard,Quest,6,11,Eaglemen,1,,Bandit,any,,107
+108,Cover for the Open Mic Night,Quest,6,11,Buffalonian,1,,Vaudevillian,any,,108
+109,Bodyguard the Mayor,Quest,3,5,Mousefolk,1,,Ranger,any,,109
+110,Compile List of Herbal Cures and Poisons,Quest,3,6,Coyotekin,1,,Elixirist,any,,110
+111,Automate the Work of the Struggling Workers,Quest,3,6,Eaglemen,1,,Contraptioneer,any,,111
+112,Cure the Gigaplague,Quest,3,6,Buffalonian,1,,Elixirist,Elixirist,,112
+113,Activate the Blood Gate,Quest,3,8,Mousefolk,1,,Contraptioneer,Elixirist,,113
+114,Ensnare the Red Dawn,Quest,3,8,Coyotekin,1,,Contraptioneer,Contraptioneer,,114
+115,Magnificent Statue,module,Expansion,Adds 3 fame to tavern,fame,2,0,NULL,NULL,NULL,116
+116,Still,module,Expansion,Allows 1 extra drink to be served,drink,7,0,NULL,NULL,NULL,123
+117,Scratching Post,module,Buffalonian Unlock,Every dawn 1 rage token may be removed from a human,1,1,0,NULL,NULL,NULL,124
+118,Buffet Bar,module,Mousefolk Unlock,Every dawn 1 rage token may be removed from a dwarf,2,1,0,NULL,NULL,NULL,125
+119,Fighting Pit,module,Coyotekin Unlock,Every dawn 1 rage token may be removed from a goblin,3,1,0,NULL,NULL,NULL,126
+120,Grooming Station,module,Eaglemen Unlock,Every dawn 1 rage token may be removed from a orc,4,1,0,NULL,NULL,NULL,127
+121,Horn of Kharzor,module,Buffalonian Unlock,Quests from Buffalonian give +2 fame,1,1,0,NULL,NULL,NULL,128
+122,Knick-Knack of Courage,module,Mousefolk Unlock,Quests from Mousefolk give +2 fame,2,1,0,NULL,NULL,NULL,129
+123,Bracers of Rage,module,Coyotekin Unlock,Quests from Coyotekin give +2 fame,3,1,0,NULL,NULL,NULL,130
+124,An Elegant Painting,module,Eaglemen Unlock,Quests from Eaglemen give +2 fame,4,1,0,NULL,NULL,NULL,131
+125,Engraving of Khazaar's Magnificent Beard,module,Buffalonian Unlock,+3 fame to Buffalonian rewards.,1,1,0,NULL,NULL,NULL,132
+126,Mysterious Cauldron,module,Mousefolk Unlock,+3 fame to Mousefolk rewards.,2,1,0,NULL,NULL,NULL,133
+127,Weight Training Room,module,Coyotekin Unlock,+3 fame to Coyotekin rewards.,3,1,0,NULL,NULL,NULL,134
+128,Golden Aviary,module,Eaglemen Unlock,+3 fame to Eaglemen rewards.,4,,,,,,134
+129,Remnant of the Crown of Swords,module,Buffalonian Unlock,Tiebreaker: Allows you to match a bid (and beat) on Human visitors during auction.,1,1,0,NULL,NULL,NULL,135
+130,Battleaxe of the First Stone King,module,Mousefolk Unlock,Tiebreaker: Allows you to match a bid (and beat) on Dwarf visitors during auction.,2,1,0,NULL,NULL,NULL,136
+131,Compendium of Hazardous Recipes,module,Coyotekin Unlock,Tiebreaker: Allows you to match a bid (and beat) on Goblin visitors during auction.,3,1,0,NULL,NULL,NULL,137
+132,Bejeweled Tusk of Ghar Tomaaz,module,Eaglemen Unlock,Tiebreaker: Allows you to match a bid (and beat) on Orc visitors during auction.,4,1,0,NULL,NULL,NULL,138
+133,Stage,module,Townsfolk,When inviting Townsfolk from Mayor look at 3 cards instead of 2,NULL,1,1,NULL,NULL,NULL,139
+134,Coach,module,coach,Troubadour can be recruited to here. Other heroes can then become Troubadours for Quests,troubadour,4,0,NULL,NULL,NULL,143
+135,Extra Table (Human),module,Mouse Table,Allows Buffalonian to be seated without rage.,1,2,0,extratable,NULL,NULL,145
+136,Extra Table (Dwarf),module,Buffalo Table,Allows Mousefolk to be seated without rage.,2,2,0,extratable,NULL,NULL,147
+137,Extra Table (Elf),module,Coyote Table,Allows Coyotekin to be seated without rage.,3,2,0,extratable,NULL,NULL,149
+138,Extra Table (Goblin),module,Eagle Table,Allows Eaglemen to be seated without rage.,4,2,0,extratable,NULL,NULL,151
+139,Jokester,townsfolk,Soother,Remove a rage token from a Visitor,soother,5,0,Jimbory/Quantic/Samba/Trelly/Borko,,,156
+140,Disguise Expert,townsfolk,Mission Modifier,Send a hero to join rival mission (if correct class) and take 2 fame from reward.,mission modifier,2,1,Welicious/Vantax,,,158
+141,Receipt Forger,townsfolk,Drink Order,Give to a rival. A drink must remain on this card until morning.,attack,2,0,McDoogle/Smitherns,,,160
+142,Bad Influence,townsfolk,Rival Discard Action,A rival must eject one Townsfolk from Tavern,attack,1,0,Chevvie,,,161
+143,Local Owed a Favor,townsfolk,Send to other bar,Moves a local Visitor into other tavern if there is space,attack,2,0,Paulis/Yaran,,,163
+144,Enterprising Orphan,townsfolk,Tantrum,Add a Rage token onto chosen rival patron,attack,2,1,Timo/Kia,,,165
+145,Fall Guy,townsfolk,Defence,Blocks an attack,defence,1,1,Grung,,,166
+146,Rich Benefactor,townsfolk,Auction Mod,Play WITH a bid: Doubles the value of a bid,auction,1,1,Yandertank,,,167
+147,Hype Man,townsfolk,Auction Mod,Allows you to place another bid on a visitor you previously bid on ,auction,1,0,DJ Jazzie Jomp,,,168
+148,Therapist,townsfolk,Peeve,Remove 1 peeve from guest. CANNOT be final peeve,soother,2,0,Dr. Kohr/Benjamis M.D.,,,170
+149,Negotiator,townsfolk,Quest,Send on quest with hero. Gain 1 fame.,mission modifier,5,0,Hattie/Channi/Lanka/Drexor/Landis,,,175
+150,Shlub,townsfolk,nothing,No effect. Just vibin',nothing,3,0,Jaks/Henring/Vanya,,,178
+151,Trenchcoat Tailor,townsfolk,Quest,Allows any two heroes to pretend to be any single class for a quest,mission modifier,2,1,Remmington,,,180
+152,Narc,townsfolk,rage,All Bandits in rival taverns gain 1 rage,rage,1,0,Burtholomew,,,181
+153,Art Critic,townsfolk,rage,All Vaudevillians in rival taverns gain 1 rage,rage,1,0,Serenity,,,182
+154,Weapon Inspector,townsfolk,rage,All Rangers in rival taverns gain 1 rage,rage,1,0,Johnson,,,183
+155,Health Inspector,townsfolk,rage,All Elixirists in rival taverns gain 1 rage,rage,1,0,Mannerberg,,,184
+156,Patent Attorney ,townsfolk,rage,All Contraptioneers in rival taverns gain 1 rage,rage,1,0,Douglas and Douglas,,,185
+157,Season of the Dark Blizzard,Event,townsfolk,Once used or donated townsfolk immediately enter bottom of townsfolk deck,3,1,null,null,null,5,186
+158,Season of the Solstice Market,Event,townsfolk,Double number of Townsfolk per drink,3,1,null,null,null,5,187
+159,Season of the Tuition Rise,Event,rage,Elixirists and Contraptioneers all gain 1 rage including those in Town.,3,1,null,mage/cultist,null,5,188
+160,Season of Weapons Inspection ,Event,rage,Bandits and Rangers all gain 1 rage including those in Town.,3,1,null,warrior/champion,null,5,189
+161,Season of No Nonsense,Event,rage,Vaudevillians all gain 1 rage including those in Town.,3,1,null,bandit/troubadour,null,5,190
+162,Season of Reflection,Event,rage,If number of rage is higher than number of Heroes then one hero leaves tavern,4,1,null,null,null,6,191
+163,Season of the Mosquito Swarm,Event,rage,Every visitor gains a Peeve,4,1,null,null,null,6,192
+164,Season of Deep Pockets,Event,bidding,Winner of most-valuable bid wins +3 fame,3,1,null,null,null,5,193
+165,Season of Hearth and Open Doors,Event,bidding,Winner of the most visitors today wins +3 fame,5,1,null,null,null,7,194
+166,Season of the Redhorn Festival,Event,race,Buffalonian questgivers give +3 fame but gain +1 rage if still in tavern at dusk,4,1,null,human,null,6,195
+167,Season of the Padfoot Whisper,Event,race,Mousefolk questgivers give +3 fame but gain +1 rage if still in tavern at dusk,4,1,null,dwarf,null,6,196
+168,Season of the Clinker Clanker God,Event,race,Coyotekin questgivers give +3 fame but gain +1 rage if still in tavern at dusk,4,1,null,goblin,null,6,197
+169,Season of the SkyHunt,Event,race,Eaglemen questgivers give +3 fame but gain +1 rage if still in tavern at dusk,3,1,null,orc,null,5,198
+170,Season of the Common Man,Event,townsfolk,Every Townsfolk in tavern gives 1 fame. Questgivers gain +1 rage,5,1,null,null,null,7,199
+171,Constable,notable,Winner selects a class and all those of that class in town gain 1 rage,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,constable,0,200
+172,Carpenter,notable,Adds one drink capacity to tavern but causes 1 local rage.,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,carpenter,0,201
+173,Auditor,notable,Winner can reveal all Townsfolk in every other tavern.,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,auditor,0,202
+174,Entertainer,notable,Removes a rage token from Visitor or Townsfolk.,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,entertainer,0,203
+175,National Envoy,notable,Gain 1 fame.,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,crier,0,204
+176,Street Tough,notable,Transfer local patron into rival tavern if there is space.,bid,First winner can appoint hero to this position for +2 fame and another +1 fame for every owned notable,1,0,0,temperance,0,205
+177,Wishful,peeve,If quest sent from other tavern gain +1 Rage,null,null,3,0,quests,negative,null,208
+178,Jealous,peeve,If quest sent from local tavern gain +1 rage,null,null,3,0,quests,negative,null,211
+179,Temperate,peeve,If tavern bids 3+ drinks on anything gain +1 rage,null,null,3,0,auction,negative,null,214
+180,Snooty,peeve,+1 Rage if more Townsfolk than Heroes+Questgivers at dusk,null,null,3,0,townsfolk,negative,null,217
+181,Loner,peeve,If more than 3 visitors in tavern at dusk gain +1 Rage,null,null,3,0,placement,negative,null,220
+182,Social Butterfly,peeve,If less than 3 visitors in tavern at dusk gain +1 Rage,null,null,3,0,placement,negative,null,223
+183,Nonviolent,peeve,1 Rage if Bandit or Ranger enters or in tavern at dusk,null,null,2,0,class,negative,null,225
+184,Anti Academia,peeve,1 Rage if Elixirist or Contraptioneer enters or in tavern at dusk,null,null,2,0,class,negative,null,227
+185,Conservative,peeve,1 Rage if Vaudevillian enters or in tavern at dusk,null,null,2,0,class,negative,null,229
+186,Empath,peeve,+1 Rage if a Questgiver becomes enraged,null,null,3,0,class,negative,null,232
+187,Mean,peeve,When enraged one other visitor gains a peeve,null,null,3,0,class,negative,null,235
+188,Loudmouth,peeve,All townsfolk enter with 1 rage,null,null,3,0,class,negative,null,238
+189,Peaceful,peeve,1 time use. All rage cleared from Visitor,null,null,1,0,null,positive,null,239
+190,Measured,peeve,+1 to Quest Rewards,null,null,1,0,null,positive,null,240
+191,Charitable,peeve,Tavern gains a drink while this hero is in tavern.,null,null,1,0,null,positive,null,241
+192,Driven,peeve,If sent on quest gain additional 1 Fame per Rage rather than subtracting,null,null,1,0,null,positive,null,242
+193,Regular,peeve,1 time use. If sent on quest return to tavern with same rage and peeves,null,null,1,0,null,positive,null,243
